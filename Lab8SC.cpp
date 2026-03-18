@@ -1,5 +1,5 @@
 // Identification comments code block
-// Spencer Caillat
+// UnCodeSpecial
 // Lab 8
 // Editor(s) used: Repl.it IDE
 // Compiler(s) used: Repl.it IDE
@@ -53,7 +53,7 @@ int main()
 {
   // identification output code block
   cout << "Lab 8\n";
-  cout << "Spencer Caillat\n";
+  cout << "UnCodeSpecial\n";
   cout << "Editor(s) used: Repl.it IDE\n";
   cout << "Compiler(s) used: Repl.it IDE\n";
   cout << "File: " << __FILE__ << "\n"; 
